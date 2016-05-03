@@ -1,0 +1,46 @@
+body {
+  background-color: #666;
+  text-align: center;
+  font-size: 100%;
+  font-family: Arial, sans-serif;
+}
+#react-container {
+  position: relative;
+  margin: 0 auto;
+  margin-top: 100px;
+  width: 280px;
+}
+.display {  
+  width: 235px;
+  background-color: #ffc;
+  text-align: right;
+}
+.display, .btn {
+  float: left;
+  height: 30px;
+  margin: 2px;
+  padding: 18px 15px 12px 15px;
+  border: 2px solid #999999;  
+  border-radius: 6px;
+  font-size: 1.5em;
+}
+.btn {
+  width: 30px;
+  background-color: #ffffff;
+}
+.btn:hover {
+  background-color: #bababa;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
